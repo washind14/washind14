@@ -1,4 +1,5 @@
-![iOSDeveloper Banner](https://user-images.githubusercontent.com/43079358/191410140-dac4888a-fc9e-4b32-9a32-d976f2c986af.png)
+<!-- ![iOSDeveloper Banner](https://user-images.githubusercontent.com/43079358/191410140-dac4888a-fc9e-4b32-9a32-d976f2c986af.png) -->
+<img src="https://user-images.githubusercontent.com/43079358/191410140-dac4888a-fc9e-4b32-9a32-d976f2c986af.png" width="1200" height="350" />
 
 <h1 align="center">Hi 👋, I'm Desha</h1>
 <h3 align="center">An iOS Developer from Colorado!</h3>
