@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Desha</h1>
 <h3 align="center">An iOS Developer from Colorado!</h3>
 
-- 🌱 I’m currently learning **SwiftUI, JavaScript, Spanish🇪🇸, and French🇫🇷**
+- 🌱 I’m currently learning **SwiftUI, JavaScript, Spanish, and French**
 
 - 💬 Ask me about **Swift, HTML, and CSS**
 
