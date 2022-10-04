@@ -1,8 +1,9 @@
+<!-- ![iOSDeveloper Banner](https://user-images.githubusercontent.com/43079358/193726085-bd73dfd8-d4d7-4093-baa2-08f88c3c1e29.png) -->
 <!-- ![iOSDeveloper Banner](https://user-images.githubusercontent.com/43079358/191410140-dac4888a-fc9e-4b32-9a32-d976f2c986af.png) -->
-<img src="https://user-images.githubusercontent.com/43079358/191410140-dac4888a-fc9e-4b32-9a32-d976f2c986af.png" width="1200" height="350" />
+<img src="https://user-images.githubusercontent.com/43079358/193726085-bd73dfd8-d4d7-4093-baa2-08f88c3c1e29.png" width="1200" height="350" />
 
-<h1 align="center">Hi 👋, I'm Desha</h1>
-<h3 align="center">An iOS Developer from Colorado!</h3>
+<!-- <h1 align="center">An iOS Developer looking to </h1> -->
+<h3 align="left">Hey there👋</h3>
 
 - 🌱 I’m currently learning **SwiftUI, Spanish, and French**
 
