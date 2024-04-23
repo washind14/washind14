@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/43079358/193726085-bd73dfd8-d4d7-4093-baa2-08f88c3c1e29.png" width="1200" height="300" />
 
 <!-- <h1 align="center">An iOS Developer looking to </h1> -->
-<h3 align="left">Hey there👋</h3>
+<!-- <h3 align="left">Hey there👋</h3> -->
 
-- 🌱 I’m currently learning **SwiftUI, Spanish, and French**
+<!-- - 🌱 I’m currently learning **SwiftUI, Spanish, and French** -->
 
-- 📫 How to reach me **washind14@gmail.com**
+<!-- - 📫 How to reach me **washind14@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
